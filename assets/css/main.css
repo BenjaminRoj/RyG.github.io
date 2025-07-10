@@ -1019,6 +1019,14 @@ section,
   transform: translate(5px, 0);
 }
 
+.about .content p {
+  text-align: justify;
+}
+
+.about .col-lg-6 p { 
+  text-align: justify;
+}
+
 /*--------------------------------------------------------------
 # Why Us Section
 --------------------------------------------------------------*/
